@@ -86,10 +86,16 @@ See the [README.md in the `chunk-version` folder](chunk-version/README.md) for s
 
 You can modify either script to use different directory names by changing the variables at the bottom of the respective Python files. By default, they are set to:
 
-```python
+```
 original_theme_path = "themes/voxel-original"
 modified_theme_path = "themes/voxel"
 child_theme_path = "themes/voxel-child"
 ```
 
 Make sure to update these paths if you change the folder structure.
+
+## Need Help?
+
+If you need assistance with using this tool or have any questions about Voxel theme modifications, feel free to contact us:
+
+[Contact us for Support](https://idealabz.ae/contact-us/)
